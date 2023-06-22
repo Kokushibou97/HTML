@@ -1,0 +1,23 @@
+Layout & Style
+<html> 
+<head> 
+<body> 
+<div> 
+
+Text formatting & lists
+<h1>…<h6> 
+<p> 
+<ul><li> 
+<b><i> 
+
+Images and links
+<img src=""> 
+<a href=""> 
+
+Linking and Meta
+<link> 
+<title> 
+<meta> 
+
+Semantic
+<header> 
