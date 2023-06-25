@@ -1,3 +1,6 @@
+How you can leverage them to convey information to search engines to better categorize your pages.
+
+
 Name 
 The name of the property can be anything you like, although browsers usually expect a value they understand and can take an action upon. 
 An example would be <meta name="author" content="name"> to state the author of the page. 
